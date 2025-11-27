@@ -1,9 +1,7 @@
-function Home() {
+export default function Login() {
   return (
     <div className="p-4 bg-amber-100">
-      this is the Home page 
+      this is the Login page 
     </div>
   );
 }
-
-export default Home
